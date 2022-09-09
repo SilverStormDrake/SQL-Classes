@@ -1,3 +1,3 @@
 # Uniclasses
 
-Just a repositoru for my SQL classes
+Just a repositorie for my SQL classes
